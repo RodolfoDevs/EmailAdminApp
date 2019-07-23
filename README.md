@@ -13,4 +13,4 @@ Tasks:
 email address
  - Have get methods to display the name, email, and mailbox capacity
  
- Project from Tim Short's course on Udemy called "Practice Java by Building Projects"
+Project instructions by Tim Short.
